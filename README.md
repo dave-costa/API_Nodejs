@@ -4,6 +4,8 @@ It's an api in nodejs, taking into account all the concepts of a back end app in
 
 Where it involved authentication, database, route manipulation, etc.
 
+It is a praise api, where users can register on the platform, administrators can register a tag and users can praise or send messages to a certain tag.
+
 ## Available Scripts
 
 In the project directory, you can run:

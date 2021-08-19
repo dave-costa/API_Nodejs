@@ -1,26 +1,16 @@
-# API in NODEJS
+# API_NodeJS
 
-It's an api in nodejs, taking into account all the concepts of a back end app in nodejs and typescript.
+### About
 
-Where it involved authentication, database, route manipulation, etc.
+The project consists of an APi in nodejs for learning, which the user can register in the system, as an adm or as a common user, an authentication system, the user can register a tag for compliments, see compliments, register new compliments.
 
-It is a praise api, where users can register on the platform, administrators can register a tag and users can praise or send messages to a certain tag.
+Concepts learned during development:
 
-## Available Scripts
+- [x] JWT
+- [x] Typescript
+- [x] TypeORM
+- [x] Postgress
+- [x] Express
+- [x] UUID
+- [x] bcrypt
 
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3069](http://localhost:3069) to view it in the browser.
-
-
-### `yarn test`
-
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-information.
